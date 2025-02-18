@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Host: https://n8ndevs.com
